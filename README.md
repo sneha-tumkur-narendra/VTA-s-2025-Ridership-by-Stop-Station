@@ -118,7 +118,8 @@ http://127.0.0.1:8050
 | Name |
 |------|
 | Sneha Tumkur Narendra |
-| *(Add other team members here)* |
+| Sadaf Fatima Syeda |
+| Naeem Mannan |
 
 ---
 
@@ -131,4 +132,4 @@ This project is for academic purposes as part of the DATA 230 coursework.
 ## 🙏 Acknowledgements
 
 - Santa Clara Valley Transportation Authority (VTA) for providing open ridership data
-- DATA 230 course instructors and teaching assistants
+- **Prof. Guannan Liu** and **ISA Andrew** for guidance and support throughout the course
