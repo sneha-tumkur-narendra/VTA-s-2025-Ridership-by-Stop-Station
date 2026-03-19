@@ -2,7 +2,7 @@
 
 An end-to-end data analysis and visualization project exploring **Santa Clara Valley Transportation Authority (VTA)** ridership patterns across bus stops and light rail stations in 2025.
 
-> **Course:** DATA 230 — Group 7 | **Year:** 2025–2026
+> **Course:** DATA 230 — Group 7 | **Year:** 2026
 
 ---
 
