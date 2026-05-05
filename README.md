@@ -133,3 +133,6 @@ This project is for academic purposes as part of the DATA 230 coursework.
 
 - Santa Clara Valley Transportation Authority (VTA) for providing open ridership data
 - **Prof. Guannan Liu** and **ISA Andrew** for guidance and support throughout the course
+
+## Final presentation link 
+- https://datastudio.google.com/reporting/1875b7e8-7b86-494a-9a62-2f4110f9d021/page/tG4wF
